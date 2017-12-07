@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"src/styles/main.scss"
+	],
+	"sourcesContent": [
+		"\nbody {\n    background: lightgray;\n}\n"
+	],
+	"names": [],
+	"mappings": ";AACA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,SAAS,GACxB"
+}
